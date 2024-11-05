@@ -1,3 +1,10 @@
+Meterian Scan Result: <br>
+
+[![security status](https://www.meterian.com/badge/gh/roggiedc/security-bcremit-next/security)](https://www.meterian.com/report/gh/roggiedc/security-bcremit-next)
+[![stability status](https://www.meterian.com/badge/gh/roggiedc/security-bcremit-next/stability)](https://www.meterian.com/report/gh/roggiedc/security-bcremit-next)
+[![licensing status](https://www.meterian.com/badge/gh/roggiedc/security-bcremit-next/licensing)](https://www.meterian.com/report/gh/roggiedc/security-bcremit-next)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
